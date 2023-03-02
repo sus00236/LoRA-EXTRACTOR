@@ -9,6 +9,7 @@ install [Python 3.10.6](https://www.python.org/downloads/release/python-3106/)
 download this library
 
 Execute cmd on file path
+and execute the following command
 
 ```cmd
 pip install virtualenv
