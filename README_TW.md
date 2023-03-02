@@ -4,7 +4,7 @@
 原出處的LoRA-EXTRACTOR我無法執行，所以我做了一些修改
 
 # 安裝
-安裝[Python 3.10.6]() 
+安裝[Python 3.10.6](https://www.python.org/downloads/release/python-3106/) 
 
 下載這個資料庫 
 
