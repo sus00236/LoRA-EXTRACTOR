@@ -9,6 +9,7 @@
 下載這個資料庫 
 
 在文件路徑上執行cmd
+並執行下方命令
 
 ```cmd
 pip install virtualenv
