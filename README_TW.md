@@ -19,4 +19,4 @@ pip install -r requirements.txt
 
 ```
 
-執行 LoRA extraction only
+以系統管理員身分執行 LoRA extraction only
