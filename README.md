@@ -18,4 +18,4 @@ venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 
-Run LoRA extraction only
+R LoRA extraction only as system administrator
