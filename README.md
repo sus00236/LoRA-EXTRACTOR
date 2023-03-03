@@ -16,6 +16,7 @@ pip install virtualenv
 virtualenv venv
 venv\Scripts\activate.bat
 pip install -r requirements.txt
+
 ```
 
-R LoRA extraction only as system administrator
+Run LoRA extraction only as system administrator
